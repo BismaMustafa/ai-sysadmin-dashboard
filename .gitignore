@@ -1,0 +1,10 @@
+# Node dependencies
+backend-node/node_modules/
+frontend/node_modules/
+
+# Python virtual environment
+ai-agent-python/venv/
+ai-agent-python/__pycache__/
+
+# Environment variables
+.env
